@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kumudumal
+-  Hi, @Kumudumal here
 
 
 <!---
